@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<title>Standage_Part1</title>
+<body>
+
+<h1>This is my BIG Header</h1>
+<p>This is my paragraph of text in a readable size. In this paragraph, if you click on <p><a href="https://www.google.com/">this</a></p> word, it should take you to a new google tab.</p>
+
+</body>
+</html>
+
+<br>
+<br>
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Online Image</h2>
+  <p>Here is an image from w3schools website:</p>
+  <img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
+
+  </body>
+  </html>
+
+<br>
+<br>
+
+  <!DOCTYPE html>
+  <html>
+  <body>
+
+  <h2>A Bullet List with a Numbered List Inside It</h2>
+
+  <ul>
+    <li>Coffee</li>
+   	 <ol>
+    	<li>Decaf</li>
+    	<li>Espresso</li>
+    	<li>Latte</li>
+    	</ol>
+      </ul>
+  <ul>
+    <li>Tea</li>
+     <ol>
+    	<li>Mint</li>
+    	<li>Orange</li>
+    	<li>Iced</li>
+    	</ol>
+      </ul>
+  <ul>
+    <li>Milk</li>
+     <ol>
+    	<li>Whole</li>
+    	<li>Almond</li>
+    	<li>Soy</li>
+    	</ol>
+      </ul>
+
+<br>
+<br>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      td, th {
+        text-align: left;
+        padding: 8px;
+      }
+
+      tr:nth-child(even) {
+      }
+      </style>
+      </head>
+      <body>
+
+      <h2>Three Columns of Text Side-By-Side</h2>
+
+      <table>
+        <tr>
+          <th>Days</th>
+          <th>Month</th>
+          <th>How many specified days per month in 2019</th>
+        </tr>
+        <tr>
+          <td>Sunday</td>
+          <td>January</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Monday</td>
+          <td>February</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Tuesday</td>
+          <td>March</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Wednesday</td>
+          <td>April</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Thursday</td>
+          <td>May</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Friday</td>
+          <td>June</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Saturday</td>
+          <td>July</td>
+          <td>4</td>
+        </tr>
+      </table>
+
+      </body>
+      </html>
+
+<br>
+<br>
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Image: align = "right":</h2>
+  <p>This is just some filler to put before the image on this page to the right of this block of text. Though there's probably more than one way to do this, I have only figured out this way. <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Smiley_Face.JPG" alt="Smiley face" width="52" height="42" align="right"> => => </p>
+</body>
+</html>
+
+<br>
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2><font size="2.5">Finally, smaller text/opens an email message:</font></h2>
+<p><font size="1.5">This is the text in a smaller-than-normal size text. Here is my hypothetical email address. If you click on it <p><a href="https://lh3.googleusercontent.com/CUyjcgIGsbIlpkZWAy1fevmshYluVOG15YCEmCi8YATrjg7P2giAsaDAFztngDGKRjLzfjrT0D3lbUlUdVfIiuO6whiOcTCmVtKl3A=s0">jcstandage@gmail.com</a></p> it should open an email message.</p>
+
+</body>
+</html>
